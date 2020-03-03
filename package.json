@@ -1,0 +1,15 @@
+{
+  "name": "transitive-vuln",
+  "version": "1.0.0",
+  "description": "This package contains creates a transitive vulnerability",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "js-yaml": "2.0.0",
+    "lodash": "4.17.11"
+  }
+}

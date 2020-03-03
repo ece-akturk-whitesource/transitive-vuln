@@ -10,3 +10,4 @@ lodash@4.17.11 - [Prototype pollution](https://snyk.io/vuln/SNYK-JS-LODASH-45020
 
 This is to create a vulnerable transitive dependency for any project that imports this package
 "# transitive-vuln" 
+"# transitive-vuln" 
