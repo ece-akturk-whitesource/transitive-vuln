@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "js-yaml": "2.0.0",
+    "js-yaml": "3.13.1",
     "lodash": "4.17.11"
   }
 }
